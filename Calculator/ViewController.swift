@@ -54,7 +54,7 @@ class ViewController: UIViewController {
     var totalOperation = ""
     var tempTotalOperation = ""
     var result = ""
-    
+    var Github: String = ""
     
     @IBAction func result(_ sender: UIButton) {
         result = display.text!
